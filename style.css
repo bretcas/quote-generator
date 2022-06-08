@@ -57,6 +57,7 @@ header .navbar a:hover {
 }
 .quotebox {
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    font-size: 30px;
     height: 200px;
     background-color: azure;
     border-radius: 15px;
